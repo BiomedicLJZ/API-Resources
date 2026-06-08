@@ -20,9 +20,6 @@ Este repositorio contiene material de estudio sobre APIs, incluyendo conceptos b
 - Ejemplos de implementación en diferentes lenguajes de programación
     - Python
     - JavaScript
-    - Java
-    - C++
-    - Rust
 - Casos de uso comunes de  APIs
 
 Este material está diseñado para ser accesible tanto para principiantes como para desarrolladores experimentados que buscan profundizar su conocimiento sobre  APIs. Se recomienda revisar cada sección y practicar con los ejemplos proporcionados para obtener una comprensión sólida de cómo funcionan las  APIs y cómo pueden ser utilizadas en diferentes contextos.
