@@ -99,9 +99,15 @@
   },
   "hotPaths": [
     {
+      "path": "src\\api-archetypes-guide.jsx",
+      "accessCount": 4,
+      "lastAccessed": 1780888525786,
+      "type": "file"
+    },
+    {
       "path": "src\\App.jsx",
-      "accessCount": 2,
-      "lastAccessed": 1780885549321,
+      "accessCount": 3,
+      "lastAccessed": 1780887097612,
       "type": "file"
     },
     {
@@ -115,6 +121,12 @@
       "accessCount": 2,
       "lastAccessed": 1780885556983,
       "type": "file"
+    },
+    {
+      "path": "src",
+      "accessCount": 2,
+      "lastAccessed": 1780888482122,
+      "type": "directory"
     },
     {
       "path": "package.json",
@@ -144,6 +156,30 @@
       "path": "C:\\Users\\BIOMED~1\\AppData\\Local\\Temp\\claude\\D--Documentos-CUGDL-Ing-Software-apis\\e4a23b40-7ce9-4a94-a993-2bbe38acf420\\tasks\\b0m5ejij3.output",
       "accessCount": 1,
       "lastAccessed": 1780885670853,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1780887098456,
+      "type": "file"
+    },
+    {
+      "path": "SECURITY.md",
+      "accessCount": 1,
+      "lastAccessed": 1780887983103,
+      "type": "file"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "accessCount": 1,
+      "lastAccessed": 1780888013304,
+      "type": "file"
+    },
+    {
+      "path": "SUPPORT.md",
+      "accessCount": 1,
+      "lastAccessed": 1780888022809,
       "type": "file"
     }
   ],
