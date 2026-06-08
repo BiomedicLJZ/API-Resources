@@ -1,0 +1,151 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780885406068,
+  "projectRoot": "D:\\Documentos\\CUGDL\\Ing_Software\\apis",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "react",
+        "version": "19.2.6",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "19.2.6",
+        "category": "frontend"
+      },
+      {
+        "name": "vite",
+        "version": "8.0.12",
+        "category": "build"
+      }
+    ],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "cd \"D:\\Documentos\\CUGDL\\Ing_Software\\apis\" && npm run build 2>&1",
+    "testCommand": null,
+    "lintCommand": "npm run lint",
+    "devCommand": "npm run dev",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "lint": "eslint .",
+      "preview": "vite preview"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "public",
+      "src"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 2,
+      "lastAccessed": 1780885405883,
+      "keyFiles": [
+        "favicon.svg",
+        "icons.svg"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 5,
+      "lastAccessed": 1780885405884,
+      "keyFiles": [
+        "api-archetypes-guide.jsx",
+        "App.css",
+        "App.jsx",
+        "index.css",
+        "main.jsx"
+      ]
+    },
+    "src\\assets": {
+      "path": "src\\assets",
+      "purpose": "Static assets",
+      "fileCount": 3,
+      "lastAccessed": 1780885405909,
+      "keyFiles": [
+        "hero.png",
+        "react.svg",
+        "vite.svg"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src\\App.jsx",
+      "accessCount": 2,
+      "lastAccessed": 1780885549321,
+      "type": "file"
+    },
+    {
+      "path": "src\\index.css",
+      "accessCount": 2,
+      "lastAccessed": 1780885552781,
+      "type": "file"
+    },
+    {
+      "path": "index.html",
+      "accessCount": 2,
+      "lastAccessed": 1780885556983,
+      "type": "file"
+    },
+    {
+      "path": "package.json",
+      "accessCount": 1,
+      "lastAccessed": 1780885491169,
+      "type": "file"
+    },
+    {
+      "path": "vite.config.js",
+      "accessCount": 1,
+      "lastAccessed": 1780885492868,
+      "type": "file"
+    },
+    {
+      "path": "eslint.config.js",
+      "accessCount": 1,
+      "lastAccessed": 1780885494270,
+      "type": "file"
+    },
+    {
+      "path": "src\\main.jsx",
+      "accessCount": 1,
+      "lastAccessed": 1780885509980,
+      "type": "file"
+    },
+    {
+      "path": "C:\\Users\\BIOMED~1\\AppData\\Local\\Temp\\claude\\D--Documentos-CUGDL-Ing-Software-apis\\e4a23b40-7ce9-4a94-a993-2bbe38acf420\\tasks\\b0m5ejij3.output",
+      "accessCount": 1,
+      "lastAccessed": 1780885670853,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
